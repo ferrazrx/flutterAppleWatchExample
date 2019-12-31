@@ -1,6 +1,8 @@
-# myapp
+# Flutter + Apple Watch App
 
-A new Flutter project.
+To read more about his project, please visit:
+
+https://medium.com/@ferrazrx/flutter-apple-watch-swift-b43110dc4545
 
 ## Getting Started
 
